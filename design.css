@@ -1,0 +1,54 @@
+body {
+        background-image: url("https://pictures.topspeed.com/IMG/crop_webp/201903/2020-koenigsegg-jesko-2_1600x0.webp");
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin: 0;
+      }
+      main {
+        background-color: white;
+        width: 75%;
+        text-align: center;
+        padding: 2% 3%;
+        margin: 40px auto;
+        border-radius:20px;
+      }
+      
+      nav {
+        background-color: grey;
+        color: white;
+        border-bottom: 3px white;
+        padding: 15px 0;
+        
+      }
+      
+      nav ul {
+        list-style-type: none;
+        padding: 0;
+        display: flex;
+        justify-content: space-around;
+        margin: 0;
+      }
+      
+      ul, ol {
+        list-style-position: inside;
+      }
+      
+      .nav-link{
+        text-transform:uppercase;
+        letter-spacing:2px;
+        font-family: sans-serif;
+        color:white;
+      }
+      
+      .other-sources {
+        text-transform:uppercase;
+        letter-spacing:2px;
+        font-family: sans-serif;
+        color: #0071b8;
+        list-style-type: none;
+      }
+      
+      
+      .christianvonkoenigsegg {
+        padding= 15px;
+      }
